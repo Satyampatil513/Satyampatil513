@@ -4,7 +4,7 @@
   <p>I build systems from scratch to solve real problems. I'm passionate about AI, backend architecture, and ultimately, space exploration.</p>
 
   <p>
-    <a href="https://github.com/Satyampatil513"><img alt="Satyam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Satyampatil513&show_icons=true&theme=radical&hide_border=true" height="150" /></a>
+    <a href="https://github.com/Satyampatil513"><img alt="Satyam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Satyampatil513&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" /></a>
     <a href="https://github.com/Satyampatil513"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyampatil513&layout=compact&theme=radical&hide_border=true" height="150" /></a>
   </p>
 </div>
@@ -30,7 +30,7 @@
 
 ## 🚀 Highlighted Projects
 
-### [CLAI (CLI AI Assistant)](#) <!-- Add your actual repo link here -->
+### [CLAI (CLI AI Assistant)](https://github.com/Satyampatil513/CLAI)
 **Context-aware CLI agent that lives in your terminal.**
 I built this because I was tired of breaking my flow to switch to a browser for AI commands. CLAI checks local conversation memory using a RAG system, passes context to the Gemini API, and executes the returned command directly in the terminal.
 
@@ -42,7 +42,7 @@ Students at local coaching institutes lack the AI-powered analytics big institut
 **AI-powered security policy automation.**
 Eliminated a slow, manual process by building an AI pipeline that automatically classifies incoming requests, generates the correct SELinux policy rules, labels them, and prepares change lists for validation.
 
-### [Consistify](#) <!-- Add your actual repo link here -->
+### [Consistify](https://github.com/Satyampatil513/consistency)
 **Blockchain-based Habit Tracker.**
 An accountability system on the Flow blockchain where users commit to screen-time goals on-chain, verified by a Chrome extension, and earn custom fungible tokens (ConsisTokens) as rewards.
 
