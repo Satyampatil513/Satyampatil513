@@ -1,25 +1,25 @@
 <div align="center">
-  <h1>Hi there, I'm Satyam Patil! 🚀</h1>
+  <h1>Hi there, I'm Satyam Patil!</h1>
   <h3>Backend & AI Engineer | Generalist Builder | Fast Learner</h3>
   <p>I build systems from scratch to solve real problems. I'm passionate about AI, backend architecture, and ultimately, space exploration.</p>
 
   <p>
-    <a href="https://github.com/Satyampatil513"><img alt="Satyam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Satyampatil513&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" /></a>
-    <a href="https://github.com/Satyampatil513"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyampatil513&layout=compact&theme=radical&hide_border=true" height="150" /></a>
+    <a href="https://github.com/Satyampatil513"><img alt="Satyam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Satyampatil513&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" /></a>
+    <a href="https://github.com/Satyampatil513"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyampatil513&layout=compact&theme=radical&hide_border=true&count_private=true" height="150" /></a>
   </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 **Current Role:** Research Engineer @ Samsung Research Institute, building AI-powered automation pipelines.
-- 🚀 **Building:** Co-founder & Full Stack Engineer at **Rankit**, an AI-powered JEE mock test platform currently live in beta.
-- 🎯 **Goal:** Transitioning to high-impact roles at early-stage, AI-first startups (YC-backed). I want to own real problems and ship fast.
-- 🌌 **Long-term:** Financial freedom, building a tech company, and eventually working on space exploration systems. 
-- 🎓 **Education:** B.Tech CSE @ IIT Mandi | Exchange semester @ TU Dresden.
+- **Current Role:** Research Engineer @ Samsung Research Institute, building AI-powered automation pipelines.
+- **Building:** Co-founder & Full Stack Engineer at **Rankit**, an AI-powered JEE mock test platform currently live in beta.
+- **Goal:** Transitioning to high-impact roles at early-stage, AI-first startups (YC-backed). I want to own real problems and ship fast.
+- **Long-term:** Financial freedom, building a tech company, and eventually working on space exploration systems. 
+- **Education:** B.Tech CSE @ IIT Mandi | Exchange semester @ TU Dresden.
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Core:** Python, C++, SQL
 - **Backend:** FastAPI, Node.js, PostgreSQL, REST APIs, async systems
@@ -28,7 +28,7 @@
 - **Blockchain:** Flow/Cadence, Smart Contracts
 - **Frontend (Comfortable):** React, Vite
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
 ### [CLAI (CLI AI Assistant)](https://github.com/Satyampatil513/CLAI)
 **Context-aware CLI agent that lives in your terminal.**
@@ -46,13 +46,13 @@ Eliminated a slow, manual process by building an AI pipeline that automatically 
 **Blockchain-based Habit Tracker.**
 An accountability system on the Flow blockchain where users commit to screen-time goals on-chain, verified by a Chrome extension, and earn custom fungible tokens (ConsisTokens) as rewards.
 
-## 🏆 Achievements
+## Achievements
 
-- 🚀 **NASA CanSat Competition:** Global Top 21
-- 🥇 **IIT Roorkee Hackathon:** Winner
-- 🛰️ **ISRO Competition:** Finalist
+- **NASA CanSat Competition:** Global Top 21
+- **IIT Roorkee Hackathon:** Winner
+- **ISRO Competition:** Finalist
 
-## 📫 Let's Connect
+## Let's Connect
 
 If you're building an ambitious AI startup, talking about space tech, or just want to chat about backend systems:
 
