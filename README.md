@@ -8,7 +8,7 @@
     <a href="https://github.com/Satyampatil513"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyampatil513&layout=compact&theme=radical&hide_border=true" height="150" /></a>
   </p>
 </div>
-
+* This are just public commits, private commits are listed below*
 ---
 
 ## 👨‍💻 About Me
