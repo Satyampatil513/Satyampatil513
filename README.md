@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/Satyampatil513"><img alt="Satyam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Satyampatil513&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" /></a>
-    <a href="https://github.com/Satyampatil513"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyampatil513&layout=compact&theme=radical&hide_border=true&count_private=true" height="150" /></a>
+    <a href="https://github.com/Satyampatil513"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyampatil513&layout=compact&theme=radical&hide_border=true" height="150" /></a>
   </p>
 </div>
 
